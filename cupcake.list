@@ -1,35 +1,37 @@
-0.0.0.0 ||bild.de^
-0.0.0.0 ||focus.de^
-0.0.0.0 ||t-online.de^
-0.0.0.0 ||welt.de^
-0.0.0.0 ||spiegel.de^
-0.0.0.0 ||stern.de^
-0.0.0.0 ||politikversagen.net^
-0.0.0.0 ||tagesschau.de^
-0.0.0.0 ||haz.de^
-0.0.0.0 ||neuepresse.de^
-0.0.0.0 ||ntv.de^
-0.0.0.0 ||postillion.de^
-0.0.0.0 ||ndr.de^
-0.0.0.0 ||faz.de^
-0.0.0.0 ||sueddeutsche.de^
-0.0.0.0 ||zdf.de^
-0.0.0.0 ||faz.de^
-0.0.0.0 ||deutschlandfunk.de^
-0.0.0.0 ||zeit.de^
-0.0.0.0 ||mdr.de^
-0.0.0.0 ||gmx.net^
-0.0.0.0 ||n-tv.de^
-0.0.0.0 ||tagesspiegel.de^
-0.0.0.0 ||news.google.de^
-0.0.0.0 ||news.google.com^
-0.0.0.0 ||ardmediathek.de^
-0.0.0.0 ||br.de^
-0.0.0.0 ||sr.de^
-0.0.0.0 ||fr.de^
-0.0.0.0 ||euronews.com^
-0.0.0.0 ||hessenschau.de^
-0.0.0.0 ||news.de^
-0.0.0.0 ||derstandard.de^
-0.0.0.0 ||rp-online.de^
-0.0.0.0 ||hr3.de^
+! 0.0.0.0 ||bild.de^
+! 0.0.0.0 ||focus.de^
+! 0.0.0.0 ||t-online.de^
+! 0.0.0.0 ||welt.de^
+! 0.0.0.0 ||spiegel.de^
+! 0.0.0.0 ||stern.de^
+! 0.0.0.0 ||politikversagen.net^
+! 0.0.0.0 ||tagesschau.de^
+! 0.0.0.0 ||haz.de^
+! 0.0.0.0 ||neuepresse.de^
+! 0.0.0.0 ||ntv.de^
+! 0.0.0.0 ||postillion.de^
+! 0.0.0.0 ||ndr.de^
+! 0.0.0.0 ||faz.de^
+! 0.0.0.0 ||sueddeutsche.de^
+! 0.0.0.0 ||zdf.de^
+! 0.0.0.0 ||faz.de^
+! 0.0.0.0 ||deutschlandfunk.de^
+! 0.0.0.0 ||zeit.de^
+! 0.0.0.0 ||mdr.de^
+! 0.0.0.0 ||gmx.net^
+! 0.0.0.0 ||n-tv.de^
+! 0.0.0.0 ||tagesspiegel.de^
+! 0.0.0.0 ||news.google.de^
+! 0.0.0.0 ||news.google.com^
+! 0.0.0.0 ||ardmediathek.de^
+! 0.0.0.0 ||br.de^
+! 0.0.0.0 ||sr.de^
+! 0.0.0.0 ||fr.de^
+! 0.0.0.0 ||euronews.com^
+! 0.0.0.0 ||hessenschau.de^
+! 0.0.0.0 ||news.de^
+! 0.0.0.0 ||derstandard.de^
+! 0.0.0.0 ||rp-online.de^
+! 0.0.0.0 ||hr3.de^
+0.0.0.0 ||shein.com^
+0.0.0.0 ||temu.com^
